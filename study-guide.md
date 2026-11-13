@@ -1,7 +1,7 @@
 # Supervised Learning Finals Study Guide
 
-Course: Introduction to Machine Learning: Supervised Learning (DTSA 5509), CU Boulder MS in Data Science on Coursera.
-One section per exam topic, following the five course modules. Each section ends with practice questions. Answers stay hidden until you click.
+A study guide for a graduate supervised learning course.
+One section per exam topic, five topics in all. Each section ends with practice questions. Answers stay hidden until you click.
 
 ---
 
@@ -133,5 +133,3 @@ Formulas to know: precision = TP / (TP + FP); recall = TP / (TP + FN); odds rati
 ## Diagram: the bias and variance trade off
 
 As model flexibility rises (smaller K in KNN, deeper trees, smaller λ), training error keeps falling, while test error falls and then rises again. The best model sits at the bottom of the test error curve. Cross validation is how you find that point without touching the test set.
-
-Sources checked: course page https://www.colorado.edu/program/data-science/coursera/curriculum/dtsa5509 and https://www.coursera.org/learn/introduction-to-machine-learning-supervised-learning
