@@ -1,6 +1,6 @@
 # Supervised Learning Finals Study Guide
 
-A finals study guide for a graduate supervised learning course, built in Gamma from my notes. One card per exam topic, each ending with practice questions whose answers stay hidden until clicked.
+A finals study guide for a graduate supervised learning course, built in Gamma from my notes. One card per exam topic, each ending with practice questions and their worked answers.
 
 ![Cover](cover.png)
 
