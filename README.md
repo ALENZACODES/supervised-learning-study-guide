@@ -17,10 +17,15 @@ Plus a cheat sheet card and a bias and variance diagram.
 
 ![Bias and variance diagram](images/bias-variance-diagram.png)
 
-## Files
-| File | What it is |
-| --- | --- |
-| study-guide.md | The full guide that was imported into Gamma, with all 15 practice questions and answers |
-| images/bias-variance-diagram.png | The diagram card (shape only, not real data) |
+## Project structure
+
+```text
+supervised-learning-study-guide/
+├── images/
+│   └── bias-variance-diagram.png  # The diagram card (shape only, not real data)
+├── cover.png                      # Cover image
+├── README.md                      # This file
+└── study-guide.md                 # The full guide imported into Gamma, with 15 practice questions and answers
+```
 
 Built by John Khan, ALENZA CODES, Toronto, Ontario.
